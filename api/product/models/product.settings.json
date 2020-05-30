@@ -31,6 +31,12 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "category": {
+      "type": "string"
+    },
+    "fee_shipping": {
+      "type": "boolean"
     }
   }
 }
